@@ -1,0 +1,28 @@
+name: Travel With Camera
+favicon: null
+layout_spectrum: 0.7903686047066003
+typography_spectrum: 0.23958621197380126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8132432240527123
+  lightness: 0.646481548435986
+  saturation: 0.0618926843162626
+  rhythmicContrast: 0.04822979494929314
+purpose: []
