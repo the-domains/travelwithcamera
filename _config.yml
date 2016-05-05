@@ -1,6 +1,6 @@
 name: Travel With Camera
 favicon: null
-layout_spectrum: 0.7903686047066003
+layout_spectrum: 0
 typography_spectrum: 0.23958621197380126
 title: Travel With Camera
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8132432240527123
-  lightness: 0.646481548435986
-  saturation: 0.0618926843162626
-  rhythmicContrast: 0.04822979494929314
+    - '#f3d6ac'
+    - '#212121'
+    - '#cab393'
+    - '#a18668'
+    - '#70441f'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
