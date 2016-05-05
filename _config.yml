@@ -2,6 +2,7 @@ name: Travel With Camera
 favicon: null
 layout_spectrum: 0.7903686047066003
 typography_spectrum: 0.23958621197380126
+title: Travel With Camera
 cta:
   domain: null
   bucket: null
