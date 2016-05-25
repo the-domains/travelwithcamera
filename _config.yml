@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.4957035
-  brandStrength: 0.5075188
-  lightness: 0.4989259
+  saturation: 0
+  brandStrength: 0.04564984
+  lightness: 0.7663802
   brandColors:
     - '#DBDAD5'
     - '#5D5B57'
     - '#C48B77'
     - '#787F9B'
     - '#323536'
-  rhythmicContrast: 0.4978518
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Travel With Camera
+favicon: null
 opengraph:
   image: null
   type: null
