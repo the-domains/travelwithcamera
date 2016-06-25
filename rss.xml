@@ -4,8 +4,15 @@
         <description><![CDATA[Travel With Camera]]></description>
         <link>http://travel.with.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 04:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 04:32:32 GMT</lastBuildDate>
         <atom:link href="http://travel.with.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A]]></title>
+            <description><![CDATA[<article><h1>A</h1><p>B</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85defca2-647a-4cb6-8385-dde7e1027872.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/85defca2-647a-4cb6-8385-dde7e1027872.jpg</link>
+            <guid isPermaLink="false">eda41e48-972f-4954-86a2-3e4682c5cf27</guid>
+            <pubDate>Sat, 25 Jun 2016 04:32:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bike Day]]></title>
             <description><![CDATA[<article><h1>Bike Day</h1><p>25.06.2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f3a375-e11b-4bb0-8227-857d68b0f27f.jpg"></article>]]></description>
