@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Travel With Camera]]></title>
         <description><![CDATA[Travel With Camera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://travel.with.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 16:36:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 16:37:14 GMT</lastBuildDate>
+        <atom:link href="http://travel.with.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Off]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebca186-c8e1-4a62-83ea-a8a8825d8075.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebca186-c8e1-4a62-83ea-a8a8825d8075.jpg</link>
+            <guid isPermaLink="false">c9564c3f-87ae-42ee-a7ea-7adadaa1ba01</guid>
+            <pubDate>Wed, 03 Aug 2016 16:37:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Travel With Camera]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/735a395a-c812-4561-b28d-0c4ebac2a62b.jpg" alt="May your trails be crooked, winding, lonesome, dangerous, leading to the most amazing view. May your mountains rise into and above the clouds. Edward Abbey ">]]></description>
