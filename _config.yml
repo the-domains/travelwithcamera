@@ -1,41 +1,41 @@
-title: Travel With Camera
-purpose: []
+typography_spectrum: 0.5805585
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.7610097
+title: Travel With Camera
+purpose: []
 color:
   saturation: 1
   brandStrength: 0.9930182
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#151C2C'
     - '#D6D9CE'
     - '#987360'
     - '#4272B5'
-  rhythmicContrast: 1
+  lightness: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Travel With Camera
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5805585
-layout_spectrum: 0.7610097
