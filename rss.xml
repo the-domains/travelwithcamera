@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Travel With Camera]]></title>
         <description><![CDATA[Travel With Camera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://travel.with.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:36:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 16:22:02 GMT</lastBuildDate>
+        <atom:link href="http://travel.with.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[City Camera]]></title>
+            <description><![CDATA[<article><h1>City Camera</h1><p>We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time. T. S. Eliot </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62045194-e9c5-4b99-ac6e-0e4fe5f08dd8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/62045194-e9c5-4b99-ac6e-0e4fe5f08dd8.jpg</link>
+            <guid isPermaLink="false">3cf1a304-6b9b-4d6e-aac3-992edc2f3471</guid>
+            <pubDate>Wed, 03 Aug 2016 16:21:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Travel With Camera]]></title>
             <description><![CDATA[<article><h1>Travel With Camera</h1><p>May your trails be crooked, winding, lonesome, dangerous, leading to the most amazing view. May your mountains rise into and above the clouds. Edward Abbey </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/735a395a-c812-4561-b28d-0c4ebac2a62b.jpg"></article>]]></description>
