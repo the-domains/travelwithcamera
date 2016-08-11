@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Travel With Camera]]></title>
         <description><![CDATA[Travel With Camera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://travel.with.camera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 07:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 07:58:58 GMT</lastBuildDate>
+        <atom:link href="http://travel.with.camera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grass]]></title>
+            <description><![CDATA[<article><h1>Grass</h1><p>Traditional values are big in my life. Jennifer Hudson</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c10d442-e396-4221-8396-cdd0669cf710.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c10d442-e396-4221-8396-cdd0669cf710.jpg</link>
+            <guid isPermaLink="false">51e53e09-ab8c-494d-9cb6-e6c3b32a8ce7</guid>
+            <pubDate>Thu, 11 Aug 2016 07:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Legacy]]></title>
+            <description><![CDATA[<article><h1>Legacy</h1><p>Our deep respect for the land and its harvest is the legacy of generations of farmers who put food on our tables, preserved our landscape, and inspired us with a powerful work ethic. James H. Douglas, Jr.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18dceaea-57ab-4372-a78f-65f1e2089850.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/18dceaea-57ab-4372-a78f-65f1e2089850.jpg</link>
+            <guid isPermaLink="false">b549ab47-9409-422d-9089-80328cba6043</guid>
+            <pubDate>Thu, 11 Aug 2016 07:58:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Travel With Camera]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/735a395a-c812-4561-b28d-0c4ebac2a62b.jpg" alt="May your trails be crooked, winding, lonesome, dangerous, leading to the most amazing view. May your mountains rise into and above the clouds. Edward Abbey ">]]></description>
