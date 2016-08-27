@@ -1,5 +1,30 @@
-title: Travel With Camera
-purpose: []
+typography_spectrum: 0.5332975
+color:
+  saturation: 0
+  brandStrength: 0
+  rhythmicContrast: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#051526'
+    - '#928181'
+    - '#384C64'
+    - '#A1ADB8'
+  lightness: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6493018
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Travel With Camera
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#051526'
-    - '#928181'
-    - '#384C64'
-    - '#A1ADB8'
-  lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Travel With Camera
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5332975
-layout_spectrum: 0.6493018
+title: Travel With Camera
+purpose: []
