@@ -25,7 +25,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: 'Book and :)'
+  - name: '#travelwithme'
     url: 'http://vyte.in/travel'
     type: external
   - name: '#fortheworld'
