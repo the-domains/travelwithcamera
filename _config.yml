@@ -28,9 +28,6 @@ navigation:
   - name: '#travelwithme'
     url: 'http://vyte.in/travel'
     type: external
-  - name: '#fortheworld'
-    url: 'http://forthe.world'
-    type: external
 favicon: null
 collections:
   - index:
